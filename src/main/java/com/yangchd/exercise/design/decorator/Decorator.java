@@ -2,19 +2,19 @@ package com.yangchd.exercise.design.decorator;
 
 /**
  * @author yangchd  2018/3/20.
+ * 装饰角色
  */
-public class Decorator implements SourceAble {
+public class Decorator implements Cafe{
 
-    private SourceAble source;
+    private Cafe cafe;
 
-    public Decorator(SourceAble source){
-        super();
-        this.source = source;
+    public Decorator(Cafe cafe) {
+        this.cafe = cafe;
     }
+
     @Override
-    public void method() {
-        System.out.println("before decorator!");
-        source.method();
-        System.out.println("after decorator!");
+    public void getCafe() {
+        cafe.getCafe();
     }
+
 }
