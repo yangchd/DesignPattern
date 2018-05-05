@@ -1,4 +1,4 @@
-package com.yangchd.exercise.design.factory.factory;
+package com.yangchd.exercise.design.factory.factory.abstractfactory;
 
 import com.yangchd.exercise.design.factory.sender.Sender;
 import com.yangchd.exercise.design.factory.sender.SmsSender;

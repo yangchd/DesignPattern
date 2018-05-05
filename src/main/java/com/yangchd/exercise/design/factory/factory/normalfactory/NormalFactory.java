@@ -1,4 +1,4 @@
-package com.yangchd.exercise.design.factory.factory;
+package com.yangchd.exercise.design.factory.factory.normalfactory;
 
 import com.yangchd.exercise.design.factory.sender.MailSender;
 import com.yangchd.exercise.design.factory.sender.Sender;
@@ -11,6 +11,9 @@ public class NormalFactory {
     public static String MAIL = "mail";
     public static String SMS = "sms";
 
+    /**
+     * 普通工厂模式，这种方式，需要传递的字符串绝对不出错
+     */
     public Sender produce(String type){
      if(MAIL.equals(type)){
          return new MailSender();
@@ -22,6 +25,9 @@ public class NormalFactory {
      }
     }
 
+    /**
+     * 多工厂模式，相对普通的，不会出现字符串错误问题
+     */
     public Sender produceMail(){
         return new MailSender();
     }
