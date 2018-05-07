@@ -1,8 +1,9 @@
-package com.yangchd.exercise.design.singleton;
+package com.yangchd.exercise.design.singleton.hungry;
 
 /**
  * @author yangchd  2018/3/17.
- *         饿汉变种模式
+ *
+ * 饿汉变种模式
  */
 public class SingletonHungryMutation {
     private static SingletonHungryMutation instance = null;
