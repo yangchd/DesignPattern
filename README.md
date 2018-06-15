@@ -3,7 +3,7 @@
 ### 一、分类
 - 创建型模式：[工厂方法模式](java/com/yangchd/design/factory/factory/normalfactory)、[抽象工厂模式](java/com/yangchd/design/factory/factory/abstractfactory)、[单例模式](java/com/yangchd/design/singleton)、[建造者模式](java/com/yangchd/design/builder)、[原型模式](java/com/yangchd/design/prototype)。
 - 结构型模式：[适配器模式](java/com/yangchd/design/adapter)、[装饰器模式](java/com/yangchd/design/decorator)、[代理模式](java/com/yangchd/design/proxy)、[外观模式](java/com/yangchd/design/facade)、[桥接模式](java/com/yangchd/design/bridge)、[组合模式](java/com/yangchd/design/composite)、[享元模式](java/com/yangchd/design/flyweight)。
-- 行为型模式：[策略模式](java/com/yangchd/design/strategy)、[模板方法模式](java/com/yangchd/design/template)、[观察者模式](java/com/yangchd/design/observer)、迭代子模式、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式。
+- 行为型模式：[策略模式](java/com/yangchd/design/strategy)、[模板方法模式](java/com/yangchd/design/template)、[观察者模式](java/com/yangchd/design/observer)、[迭代器模式](java/com/yangchd/design/iterator)、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式。
 - 并发型模式：
 - 线程池模式：
 
