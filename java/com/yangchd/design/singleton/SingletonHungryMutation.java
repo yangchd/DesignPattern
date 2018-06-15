@@ -1,4 +1,4 @@
-package com.yangchd.design.singleton.hungry;
+package com.yangchd.design.singleton;
 
 /**
  * @author yangchd  2018/3/17.

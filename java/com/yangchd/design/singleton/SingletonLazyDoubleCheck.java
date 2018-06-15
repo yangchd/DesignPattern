@@ -1,4 +1,4 @@
-package com.yangchd.design.singleton.lazy;
+package com.yangchd.design.singleton;
 
 /**
  * @author yangchd  2018/5/7.
