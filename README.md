@@ -19,9 +19,9 @@
 
 
 ### 二、分类
-- 创建型模式：[工厂方法模式](java/com/yangchd/design/factory/factory/normalfactory)、[抽象工厂模式](java/com/yangchd/design/factory/factory/abstractfactory)、[单例模式](java/com/yangchd/design/singleton)、[建造者模式](java/com/yangchd/design/builder)、[原型模式](java/com/yangchd/design/prototype)。
-- 结构型模式：[适配器模式](java/com/yangchd/design/adapter)、[装饰器模式](java/com/yangchd/design/decorator)、[代理模式](java/com/yangchd/design/proxy)、[外观模式](java/com/yangchd/design/facade)、[桥接模式](java/com/yangchd/design/bridge)、[组合模式](java/com/yangchd/design/composite)、[享元模式](java/com/yangchd/design/flyweight)。
-- 行为型模式：[策略模式](java/com/yangchd/design/strategy)、[模板方法模式](java/com/yangchd/design/template)、[观察者模式](java/com/yangchd/design/observer)、[迭代器模式](java/com/yangchd/design/iterator)、[职责链模式](java/com/yangchd/design/responsibility)、[命令模式](java/com/yangchd/design/command)、[备忘录模式](java/com/yangchd/design/memento)、[状态模式](java/com/yangchd/design/state)、[访问者模式](java/com/yangchd/design/visitor)、[中介者模式](java/com/yangchd/design/mediator)、[解释器模式](java/com/yangchd/design/interpreter)。
+- 创建型模式：[工厂方法模式](java/com/yangchd/design/creational/factory/factory/normalfactory)、[抽象工厂模式](java/com/yangchd/design/creational/factory/factory/abstractfactory)、[单例模式](java/com/yangchd/design/creational/singleton)、[建造者模式](java/com/yangchd/design/creational/builder)、[原型模式](java/com/yangchd/design/creational/prototype)。
+- 结构型模式：[适配器模式](java/com/yangchd/design/structural/adapter)、[装饰器模式](java/com/yangchd/design/structural/decorator)、[代理模式](java/com/yangchd/design/structural/proxy)、[外观模式](java/com/yangchd/design/structural/facade)、[桥接模式](java/com/yangchd/design/structural/bridge)、[组合模式](java/com/yangchd/design/structural/composite)、[享元模式](java/com/yangchd/design/structural/flyweight)。
+- 行为型模式：[策略模式](java/com/yangchd/design/behavioral/strategy)、[模板方法模式](java/com/yangchd/design/behavioral/template)、[观察者模式](java/com/yangchd/design/behavioral/observer)、[迭代器模式](java/com/yangchd/design/behavioral/iterator)、[职责链模式](java/com/yangchd/design/behavioral/responsibility)、[命令模式](java/com/yangchd/design/behavioral/command)、[备忘录模式](java/com/yangchd/design/behavioral/memento)、[状态模式](java/com/yangchd/design/behavioral/state)、[访问者模式](java/com/yangchd/design/behavioral/visitor)、[中介者模式](java/com/yangchd/design/behavioral/mediator)、[解释器模式](java/com/yangchd/design/behavioral/interpreter)。
 
 
 <table>
