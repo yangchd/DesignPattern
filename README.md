@@ -5,7 +5,7 @@
         <td>类型</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
     </tr>
     <tr>
-        <td rowspan="6">创建型模式<br/>Creational Pattern</td><td><a herf="java/com/yangchd/design/singleton">单例模式<br/>Singleton Pattern</a></td><td>★☆☆☆☆</td><td>★★★★☆</td>
+        <td rowspan="6">创建型模式<br/>Creational Pattern</td><td><a herf="https://www.baidu.com">单例模式<br/>Singleton Pattern</a></td><td>★☆☆☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
         <td>简单工厂模式<br/>Simple Factory Pattern</td><td>★★☆☆☆</td><td>★★★☆☆</td>
