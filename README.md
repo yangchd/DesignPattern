@@ -22,7 +22,7 @@
 
 | 类型 | 模式名称 | 学习难度 | 使用频率 |
 | :-----: | ------: | :---: | :---: |
-| aaaa | $1 | 5 | <font color=red>aaa</font> |
+| aaaa | $1 | 5 | <span style="color: red">测试</span> |
 | bbbb | $1 | 6 | cc |
 | cccc | $1 | 7 | ddddddd |
 
