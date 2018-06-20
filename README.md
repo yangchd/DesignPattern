@@ -27,22 +27,22 @@
         <td rowspan="6">创建型模式<br/>Creational Pattern</td><td><a herf="https://www.baidu.com">单例模式Singleton Pattern</a></td><td>★☆☆☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td>简单工厂模式<br/>Simple Factory Pattern</td><td>★★☆☆☆</td><td>★★★☆☆</td>
+        <td>简单工厂模式Simple Factory Pattern</td><td>★★☆☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>工厂方法模式<br/>Factory Method Pattern</td><td>★★☆☆☆</td><td>★★★★★</td>
+        <td>工厂方法模式Factory Method Pattern</td><td>★★☆☆☆</td><td>★★★★★</td>
     </tr>
     <tr>
-        <td>抽象工厂模式<br/>Abstract  Factory Pattern</td><td>★★★★☆</td><td>★★★★★</td>
+        <td>抽象工厂模式Abstract  Factory Pattern</td><td>★★★★☆</td><td>★★★★★</td>
     </tr>
     <tr>
-        <td>原型模式<br/>Prototype Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
+        <td>原型模式Prototype Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>建造者模式<br/>Builder Pattern</td><td>★★★★☆</td><td>★★☆☆☆</td>
+        <td>建造者模式Builder Pattern</td><td>★★★★☆</td><td>★★☆☆☆</td>
     </tr>
     <tr>
-        <td rowspan="7">结构型模式Structural Pattern</td><td>适配器模式Adapter Pattern</td><td>★★☆☆☆</td><td>★★★★☆</td>
+        <td rowspan="7">结构型模式<br/>Structural Pattern</td><td>适配器模式Adapter Pattern</td><td>★★☆☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
         <td>桥接模式Bridge  Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
@@ -63,7 +63,7 @@
         <td>代理模式Proxy  Pattern</td><td>★★★☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td rowspan="11">行为型模式Behavioral Pattern</td><td>职责链模式Chain  of Responsibility Pattern</td><td>★★★☆☆</td><td>★★☆☆☆</td>
+        <td rowspan="11">行为型模式<br/>Behavioral Pattern</td><td>职责链模式Chain  of Responsibility Pattern</td><td>★★★☆☆</td><td>★★☆☆☆</td>
     </tr>
     <tr>
         <td>命令模式Command  Pattern</td><td>★★★☆☆</td><td>★★★★☆</td>
