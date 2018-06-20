@@ -1,5 +1,7 @@
 package com.yangchd.design.creational.singleton;
 
+import com.yangchd.design.creational.singleton.demo.SingletonLazyDoubleCheck;
+
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
@@ -17,7 +19,7 @@ public class SingletonBreak {
     public static void main(String[] args) {
         try {
             SingletonLazyDoubleCheck instance1 = SingletonLazyDoubleCheck.getInstance();
-            Class<?> clazz = Class.forName("com.yangchd.design.creational.singleton.SingletonLazyDoubleCheck");
+            Class<?> clazz = Class.forName("com.yangchd.design.creational.singleton.demo.SingletonLazyDoubleCheck");
             Constructor<?> constructor = clazz.getDeclaredConstructor();
             constructor.setAccessible(true);
             SingletonLazyDoubleCheck instance2 = (SingletonLazyDoubleCheck) constructor.newInstance();

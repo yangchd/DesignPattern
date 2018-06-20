@@ -1,4 +1,4 @@
-package com.yangchd.design.creational.singleton;
+package com.yangchd.design.creational.singleton.demo;
 
 /**
  * @author yangchd  2018/3/17.
