@@ -5,76 +5,76 @@
         <td>类型</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
     </tr>
     <tr>
-        <td rowspan="6">创建型模式<br/>Creational Pattern</td><td>单例模式Singleton Pattern</td><td>★☆☆☆☆</td><td>★★★★☆</td>
+        <td rowspan="6">创建型模式<br/>Creational Pattern</td><td><a herf="java/com/yangchd/design/singleton">单例模式<br/>Singleton Pattern</a></td><td>★☆☆☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td>简单工厂模式Simple Factory Pattern</td><td>★★☆☆☆</td><td>★★★☆☆</td>
+        <td>简单工厂模式<br/>Simple Factory Pattern</td><td>★★☆☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>工厂方法模式Factory Method Pattern</td><td>★★☆☆☆</td><td>★★★★★</td>
+        <td>工厂方法模式<br/>Factory Method Pattern</td><td>★★☆☆☆</td><td>★★★★★</td>
     </tr>
     <tr>
-        <td>抽象工厂模式Abstract  Factory Pattern</td><td>★★★★☆</td><td>★★★★★</td>
+        <td>抽象工厂模式<br/>Abstract  Factory Pattern</td><td>★★★★☆</td><td>★★★★★</td>
     </tr>
     <tr>
-        <td>原型模式Prototype Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
+        <td>原型模式<br/>Prototype Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>建造者模式Builder Pattern</td><td>★★★★☆</td><td>★★☆☆☆</td>
+        <td>建造者模式<br/>Builder Pattern</td><td>★★★★☆</td><td>★★☆☆☆</td>
     </tr>
     <tr>
-        <td rowspan="7">创建型模式Creational Pattern</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td rowspan="7">结构型模式Structural Pattern</td><td>适配器模式Adapter Pattern</td><td>★★☆☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>桥接模式Bridge  Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>组合模式Composite  Pattern</td><td>★★★☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>装饰模式Decorator  Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>外观模式Facade  Pattern</td><td>★☆☆☆☆</td><td>★★★★★</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>享元模式Flyweight  Pattern</td><td>★★★★☆</td><td>★☆☆☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>代理模式Proxy  Pattern</td><td>★★★☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td rowspan="11">创建型模式Creational Pattern</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td rowspan="11">行为型模式Behavioral Pattern</td><td>职责链模式Chain  of Responsibility Pattern</td><td>★★★☆☆</td><td>★★☆☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>命令模式Command  Pattern</td><td>★★★☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>解释器模式Interpreter  Pattern</td><td>★★★★★</td><td>★☆☆☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>迭代器模式Iterator  Pattern</td><td>★★★☆☆</td><td>★★★★★</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>中介者模式Mediator  Pattern</td><td>★★★☆☆</td><td>★★☆☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>备忘录模式Memento  Pattern</td><td>★★☆☆☆</td><td>★★☆☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>观察者模式Observer  Pattern</td><td>★★★☆☆</td><td>★★★★★</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>状态模式State  Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>策略模式Strategy  Pattern</td><td>★☆☆☆☆</td><td>★★★★☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>模板方法模式Template  Method Pattern</td><td>★★☆☆☆</td><td>★★★☆☆</td>
     </tr>
     <tr>
-        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td>访问者模式Visitor  Pattern</td><td>★★★★☆</td><td>★☆☆☆☆</td>
     </tr>
 </table>
 
