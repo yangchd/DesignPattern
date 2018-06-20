@@ -19,9 +19,17 @@
 1. 合成复用原则（Composite Reuse Principle）  
 原则是尽量使用合成/聚合的方式，而不是使用继承。
 
+
+| 类型 | 模式名称 | 学习难度 | 使用频率 |
+| :-----: | ------: | :---: | :---: |
+| aaaa | $1 | 5 | <font color=red>aaa</font> |
+| bbbb | $1 | 6 | cc |
+| cccc | $1 | 7 | ddddddd |
+
+
 <table>
     <tr>
-        <td>类型</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
+        <td></td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
     </tr>
     <tr>
         <td rowspan="6">创建型模式<br/>Creational Pattern</td><td>[单例模式](java/com/yangchd/design/singleton)</td><td>★☆☆☆☆</td><td>★★★★☆</td>
