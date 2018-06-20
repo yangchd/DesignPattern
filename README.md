@@ -1,5 +1,83 @@
 # Java 设计模式
 
+<table>
+    <tr>
+        <td>类型</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td rowspan="6">创建型模式<br/>Creational Pattern</td><td>单例模式Singleton Pattern</td><td>★☆☆☆☆</td><td>★★★★☆</td>
+    </tr>
+    <tr>
+        <td>简单工厂模式Simple Factory Pattern</td><td>★★☆☆☆</td><td>★★★☆☆</td>
+    </tr>
+    <tr>
+        <td>工厂方法模式Factory Method Pattern</td><td>★★☆☆☆</td><td>★★★★★</td>
+    </tr>
+    <tr>
+        <td>抽象工厂模式Abstract  Factory Pattern</td><td>★★★★☆</td><td>★★★★★</td>
+    </tr>
+    <tr>
+        <td>原型模式Prototype Pattern</td><td>★★★☆☆</td><td>★★★☆☆</td>
+    </tr>
+    <tr>
+        <td>建造者模式Builder Pattern</td><td>★★★★☆</td><td>★★☆☆☆</td>
+    </tr>
+    <tr>
+        <td rowspan="7">创建型模式Creational Pattern</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td rowspan="11">创建型模式Creational Pattern</td><td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+    <tr>
+        <td>模式名称</td><td>学习难度</td><td>使用频率</td>
+    </tr>
+</table>
+
 ### 一、分类
 - 创建型模式：[工厂方法模式](java/com/yangchd/design/factory/factory/normalfactory)、[抽象工厂模式](java/com/yangchd/design/factory/factory/abstractfactory)、[单例模式](java/com/yangchd/design/singleton)、[建造者模式](java/com/yangchd/design/builder)、[原型模式](java/com/yangchd/design/prototype)。
 - 结构型模式：[适配器模式](java/com/yangchd/design/adapter)、[装饰器模式](java/com/yangchd/design/decorator)、[代理模式](java/com/yangchd/design/proxy)、[外观模式](java/com/yangchd/design/facade)、[桥接模式](java/com/yangchd/design/bridge)、[组合模式](java/com/yangchd/design/composite)、[享元模式](java/com/yangchd/design/flyweight)。
