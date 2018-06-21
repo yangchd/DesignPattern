@@ -1,4 +1,4 @@
-package com.yangchd.design.creational.factory.sender;
+package com.yangchd.design.creational.factory.factorymethod;
 
 /**
  * @author yangchd  2018/3/17.

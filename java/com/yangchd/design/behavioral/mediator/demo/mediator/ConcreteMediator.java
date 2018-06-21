@@ -1,7 +1,6 @@
 package com.yangchd.design.behavioral.mediator.demo.mediator;
 
 import com.yangchd.design.behavioral.mediator.demo.component.*;
-import com.yangchd.design.mediator.demo.component.*;
 
 /**
  * @author yangchd  2018/6/20.

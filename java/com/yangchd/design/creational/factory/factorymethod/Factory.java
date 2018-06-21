@@ -1,6 +1,4 @@
-package com.yangchd.design.creational.factory.factory.abstractfactory;
-
-import com.yangchd.design.creational.factory.sender.Sender;
+package com.yangchd.design.creational.factory.factorymethod;
 
 /**
  * @author yangchd  2018/3/17.
